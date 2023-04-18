@@ -1,7 +1,7 @@
 ---
 title: Microsoft Teams - Core deployment
 date: 2023-04-18T19:07:41.586Z
-description: >-
+description: >
   Teams provides a set of custom administrator roles that can be used to manage
   Teams for your organization. The roles provide various capabilities to
   administrators.
